@@ -5,10 +5,10 @@ This is a fork of https://github.com/mmmmmtasty/SportScanner
 
 Naming examples:
 
-NCAA Football\Season 2021\NCAA Football - 2021-09-04 - Penn State at Wisconsin.mkv
-NCAA Football\Season 2021\NCAA Football - 2021-09-04 - Penn State at. Wisconsin.ts
-NCAA Football\Season 2021\NCAA Football - 2021-09-04 - Wisconsin vs Penn State.mkv
-NCAA Football\Season 2021\NCAA Football - 2021-09-04 - Wisconsin vs. Penn State.ts
+- NCAA Football\Season 2021\NCAA Football - 2021-09-04 - Penn State at Wisconsin.mkv
+- NCAA Football\Season 2021\NCAA Football - 2021-09-04 - Penn State at. Wisconsin.ts
+- NCAA Football\Season 2021\NCAA Football - 2021-09-04 - Wisconsin vs Penn State.mkv
+- NCAA Football\Season 2021\NCAA Football - 2021-09-04 - Wisconsin vs. Penn State.ts
 
 Accepted Show Names:
 - Football
